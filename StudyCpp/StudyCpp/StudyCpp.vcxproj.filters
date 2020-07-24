@@ -15,19 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0714_study_assignment.cpp">
+    <ClCompile Include="2주차\0724_study_fileIO.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="0714_study_assignment02.cpp">
+    <ClCompile Include="1주차\0714_study_assignment.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="0714_study_stack.cpp">
+    <ClCompile Include="1주차\0714_study_assignment02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="0721_study_friendstack.cpp">
+    <ClCompile Include="1주차\0714_study_stack.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="0721_study_pointer.cpp">
+    <ClCompile Include="2주차\0721_study_friendstack.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2주차\0721_study_pointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
