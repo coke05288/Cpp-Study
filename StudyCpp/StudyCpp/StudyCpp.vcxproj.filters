@@ -39,5 +39,8 @@
     <ClCompile Include="4주차\study_queue_class.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4주차\study_deque.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
