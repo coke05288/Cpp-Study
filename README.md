@@ -10,7 +10,11 @@
 
   [**1주차 : 20.07.14**  : 클래스 및 스택.](https://github.com/coke05288/Cpp-Study/tree/master/StudyCpp/StudyCpp/1%EC%A3%BC%EC%B0%A8)
 
-  [**2주차 : 20.07.21**  : 1주차 리뷰 및 스택.](https://github.com/coke05288/Cpp-Study/tree/master/StudyCpp/StudyCpp/2%EC%A3%BC%EC%B0%A8)
+  [**2주차 : 20.07.21**  : 클래스 문법 리뷰 및 스택 구현 복습](https://github.com/coke05288/Cpp-Study/tree/master/StudyCpp/StudyCpp/2%EC%A3%BC%EC%B0%A8)
+  
+  [**3주차 : 20.07.30**  : 괄호 검사 문제 리뷰 및 큐 개념설명](https://github.com/coke05288/Cpp-Study/tree/master/StudyCpp/StudyCpp/3%EC%A3%BC%EC%B0%A8)
+  
+  [**4주차 : 20.08.04**  : 큐 구현 및 덱 개념설명](https://github.com/coke05288/Cpp-Study/tree/master/StudyCpp/StudyCpp/4%EC%A3%BC%EC%B0%A8)
 
 * ThisisCpp
 
