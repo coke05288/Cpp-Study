@@ -13,55 +13,34 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\CppStudy">
-      <UniqueIdentifier>{c4564b7b-3b0d-4e82-a176-e923a3aea93f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\CppStudy\0714_1주차_클래스,스택">
-      <UniqueIdentifier>{a4e050c0-667b-4e02-96cf-6cc05f4f929a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\ThisisCpp">
-      <UniqueIdentifier>{940f8454-af06-48ff-a097-3b6bc3f6896c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\ThisisCpp\chapter01">
-      <UniqueIdentifier>{eed1d172-ad49-4cd3-bd30-d7eca07a6566}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\ThisisCpp\chapter02">
-      <UniqueIdentifier>{19ea850b-4be7-4001-ad24-4c365ba84dd4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\CppStudy\0721_2주차_1주차복습,스택">
-      <UniqueIdentifier>{c321085e-9d73-4f96-8501-9ea2aaecfa8e}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0714_study_assignment.cpp">
-      <Filter>소스 파일\CppStudy\0714_1주차_클래스,스택</Filter>
-    </ClCompile>
-    <ClCompile Include="0714_study_assignment02.cpp">
-      <Filter>소스 파일\CppStudy\0714_1주차_클래스,스택</Filter>
-    </ClCompile>
-    <ClCompile Include="0714_study_stack.cpp">
-      <Filter>소스 파일\CppStudy\0714_1주차_클래스,스택</Filter>
-    </ClCompile>
     <ClCompile Include="Hello00P.cpp">
-      <Filter>소스 파일\ThisisCpp</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Hello00P1.c">
-      <Filter>소스 파일\ThisisCpp</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Hello00P2.c">
-      <Filter>소스 파일\ThisisCpp</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Hello00P3.c">
-      <Filter>소스 파일\ThisisCpp</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="MemberInit.cpp">
-      <Filter>소스 파일\ThisisCpp</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="0721_study_friendstack.cpp">
-      <Filter>소스 파일\CppStudy\0721_2주차_1주차복습,스택</Filter>
+    <ClCompile Include="Part 01\01_HelloCpp.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="0721_study_pointer.cpp">
-      <Filter>소스 파일\CppStudy\0721_2주차_1주차복습,스택</Filter>
+    <ClCompile Include="Part 01\02_CoutSample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Part 01\03_CoutString.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Part 01\04_CinString.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
