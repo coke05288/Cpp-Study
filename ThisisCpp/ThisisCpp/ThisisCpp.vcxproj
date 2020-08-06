@@ -154,16 +154,19 @@
     <ClCompile Include="MemberInit.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Part 01\02_CoutSample.cpp">
+    <ClCompile Include="Part 01\Chapter 01\02_CoutSample.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Part 01\01_HelloCpp.cpp">
+    <ClCompile Include="Part 01\Chapter 01\01_HelloCpp.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Part 01\03_CoutString.cpp">
+    <ClCompile Include="Part 01\Chapter 01\03_CoutString.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Part 01\04_CinString.cpp" />
+    <ClCompile Include="Part 01\Chapter 01\04_CinString.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Part 01\Chapter 01\05_AutoSample.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
