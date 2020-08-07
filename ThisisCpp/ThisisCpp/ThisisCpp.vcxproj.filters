@@ -45,5 +45,11 @@
     <ClCompile Include="Part 01\Chapter 01\05_AutoSample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Part 01\Chapter 01\06_NewDeleteSample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Part 01\Chapter 01\07_NewDeleteArray.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
