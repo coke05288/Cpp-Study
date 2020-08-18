@@ -172,7 +172,9 @@
     <ClCompile Include="Part 01\Chapter 01\06_NewDeleteSample.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Part 01\Chapter 01\07_NewDeleteArray.cpp" />
+    <ClCompile Include="Part 01\Chapter 01\07_NewDeleteArray.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
