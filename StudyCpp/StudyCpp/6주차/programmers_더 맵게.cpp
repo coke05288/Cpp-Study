@@ -12,7 +12,7 @@ int solution(vector<int> scoville, int K) {
 
 	for (int i = 0; i < scoville.size(); i++) newcoville.push(scoville[i]);
 
-	while (newcoville.top() < K && newcoville.size() > 1) {
+	while (newcoville.size() > 1 && newcoville.top() < K) {
 		int first, second;
 
 		first = newcoville.top();
@@ -26,16 +26,14 @@ int solution(vector<int> scoville, int K) {
 		answer++;
 	}
 
-	if (newcoville.top() < K) {
-		return -1;
-	}
-
+	if (newcoville.top() < K) return -1;
+	
 	return answer;
 }
 
 int main() {
 
-	vector<int> scoville = { 1, 2, 3, 9, 10, 12 };
+	vector<int> scoville = { 1 };
 
 	int K = 7;
 
